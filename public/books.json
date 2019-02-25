@@ -1,0 +1,58 @@
+[
+    {
+      "id" : "1",
+      "name" : "The Lightning Thief",
+      "rating" : 2
+    }
+  ,
+    {
+      "id" : "2",
+      "name" : "The Sea of Monsters",
+      "rating" : 3
+    }
+    ,
+    {
+      "id" : "3",
+      "name" : "The Elevator",
+      "rating" : 5
+    }
+    ,
+    {
+      "id" : "4",
+      "name" : "The God",
+      "rating" : 3
+    }
+    ,
+    {
+      "id" : "5",
+      "name" : "Sometimes in Back",
+      "rating" : 3
+    }
+    ,
+    {
+      "id" : "6",
+      "name" : "Beloved",
+      "rating" : 2
+    }
+    ,
+    {
+      "id" : "7",
+      "name" : "Invisible Man",
+      "rating" : 1
+    },
+    {
+      "id" : "8",
+      "name" : "A Passage to India",
+      "rating" : 5
+    },
+    {
+      "id" : "9",
+      "name" : "One Hundred Years of Solitude",
+      "rating" : 3
+    },
+    {
+      "id" : "10",
+      "name" : "To Kill a Mockingbird",
+      "rating" : 1
+    }
+]

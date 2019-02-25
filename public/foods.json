@@ -1,0 +1,56 @@
+[
+    {
+      "id" : "1",
+      "name" : "Pasta",
+      "rating": 3
+    }
+  ,
+    {
+      "id" : "2",
+      "name" : "Noodles",
+      "rating": 2
+    }
+    ,
+    {
+      "id" : "3",
+      "name" : "French Fries",
+      "rating": 4
+    }
+    ,
+    {
+      "id" : "4",
+      "name" : "Fried Rice",
+      "rating": 4
+    }
+    ,
+    {
+      "id" : "5",
+      "name" : "Pizza",
+      "rating": 3
+    },
+    {
+      "id" : "6",
+      "name" : "Curd Rice",
+      "rating": 3
+    },
+    {
+      "id" : "7",
+      "name" : "Som Tum",
+      "rating": 3
+    },
+    {
+      "id" : "8",
+      "name" : "Khao Pad",
+      "rating": 4
+    },
+    {
+      "id" : "9",
+      "name" : "Yam Nua",
+      "rating": 1
+    },
+    {
+      "id" : "10",
+      "name" : "Pad Thai",
+      "rating": 3
+    }
+]
